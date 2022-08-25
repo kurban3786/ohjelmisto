@@ -1,2 +1,1 @@
-print("Hei maailma!")
-print("Heıııiiiiilma!")
+print("Hei kurban yusuf!")
